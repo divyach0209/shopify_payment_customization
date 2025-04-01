@@ -4,4 +4,16 @@ query RunInput {
       value
     }
   }
+  localization {
+    country {
+      isoCode
+    }
+  }
+  paymentMethods {
+    id
+    name
+    metafield(namespace: "payment", key: "details") {
+      value
+    }
+  }
 }

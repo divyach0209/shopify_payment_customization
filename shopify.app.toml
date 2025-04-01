@@ -3,7 +3,7 @@
 client_id = "dbba09bab49f883c062ad913fe532bf2"
 name = "Payment Customization Demo"
 handle = "payment-customization-demo-1"
-application_url = "https://deficit-quest-everywhere-mystery.trycloudflare.com"
+application_url = "https://supplement-cleanup-jam-homework.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products,write_payment_customizations"
 
 [auth]
 redirect_urls = [
-  "https://deficit-quest-everywhere-mystery.trycloudflare.com/auth/callback",
-  "https://deficit-quest-everywhere-mystery.trycloudflare.com/auth/shopify/callback",
-  "https://deficit-quest-everywhere-mystery.trycloudflare.com/api/auth/callback"
+  "https://supplement-cleanup-jam-homework.trycloudflare.com/auth/callback",
+  "https://supplement-cleanup-jam-homework.trycloudflare.com/auth/shopify/callback",
+  "https://supplement-cleanup-jam-homework.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
